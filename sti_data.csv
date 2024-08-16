@@ -1,0 +1,101 @@
+age,sti_name,sti_symptoms,sexually_active,body_temp,white_blood_cell_count,partner_history,infection_location,antibody_test,antibiotic_treatment
+24,Syphilis,"Painful urination, Warts, Flu-like symptoms, Unusual discharge",Yes,36.0,10984,Monogamous,Mouth,Negative,Azithromycin
+25,Syphilis,"Genital sores, Unusual discharge, Painful urination, Flu-like symptoms",No,36.1,8765,Monogamous,Penis,Negative,Penicillin
+29,Syphilis,"Unusual discharge, Painful urination, Flu-like symptoms, Warts, Genital sores",Yes,36.7,7790,Monogamous,Anus,Negative,Penicillin
+18,HPV,Flu-like symptoms,Yes,37.4,7306,Monogamous,Mouth,Positive,Doxycycline
+46,HPV,"Warts, Painful urination, Genital sores, Unusual discharge",Yes,37.5,8543,Non-monogamous,Anus,Negative,Ceftriaxone
+35,HPV,"Genital sores, Unusual discharge, Warts",No,37.6,10549,Monogamous,Vagina,Positive,Doxycycline
+18,Herpes,Painful urination,Yes,36.4,10445,Non-monogamous,Anus,Positive,Penicillin
+33,Herpes,"Genital sores, Warts, Painful urination, Flu-like symptoms",No,36.5,8596,Monogamous,Vagina,Inconclusive,Ceftriaxone
+40,Herpes,Unusual discharge,Yes,36.7,9754,Non-monogamous,Penis,Positive,Ceftriaxone
+40,HIV,"Genital sores, Unusual discharge, Flu-like symptoms, Warts",No,36.2,7412,Monogamous,Penis,Negative,Penicillin
+32,Syphilis,"Genital sores, Unusual discharge, Painful urination, Warts",No,36.4,7321,Monogamous,Vagina,Negative,Ceftriaxone
+48,HIV,Painful urination,Yes,37.3,9199,Non-monogamous,Mouth,Positive,Doxycycline
+32,Gonorrhea,Painful urination,Yes,36.1,4252,Non-monogamous,Mouth,Inconclusive,Penicillin
+19,Syphilis,"Unusual discharge, Warts, Genital sores, Painful urination, Flu-like symptoms",Yes,36.6,8910,Monogamous,Mouth,Negative,Azithromycin
+44,Chlamydia,Warts,Yes,36.6,9850,Non-monogamous,Mouth,Negative,Penicillin
+36,HIV,"Genital sores, Unusual discharge, Painful urination, Flu-like symptoms",No,37.9,6079,Non-monogamous,Mouth,Positive,Doxycycline
+38,Syphilis,"Flu-like symptoms, Painful urination",Yes,36.8,6557,Monogamous,Penis,Negative,Azithromycin
+20,Chlamydia,"Genital sores, Unusual discharge, Flu-like symptoms, Painful urination",Yes,37.0,4438,Non-monogamous,Penis,Positive,Azithromycin
+28,HPV,"Warts, Genital sores, Unusual discharge",No,36.3,7553,Non-monogamous,Mouth,Inconclusive,Penicillin
+49,Herpes,"Genital sores, Unusual discharge",Yes,36.3,6696,Non-monogamous,Anus,Inconclusive,Azithromycin
+25,Gonorrhea,"Genital sores, Warts",Yes,37.4,10655,Non-monogamous,Penis,Negative,Penicillin
+20,HPV,"Genital sores, Warts, Painful urination, Unusual discharge, Flu-like symptoms",Yes,36.9,9793,Non-monogamous,Anus,Positive,Azithromycin
+25,HPV,"Unusual discharge, Painful urination, Genital sores, Flu-like symptoms, Warts",Yes,37.5,9697,Non-monogamous,Penis,Negative,Penicillin
+27,Syphilis,"Painful urination, Flu-like symptoms, Warts, Genital sores, Unusual discharge",Yes,36.0,8917,Non-monogamous,Mouth,Negative,Penicillin
+33,Gonorrhea,"Genital sores, Painful urination",No,37.1,4892,Monogamous,Mouth,Inconclusive,Doxycycline
+31,Syphilis,"Warts, Genital sores, Flu-like symptoms, Painful urination",Yes,36.7,10674,Monogamous,Throat,Positive,Penicillin
+18,HIV,"Unusual discharge, Painful urination, Genital sores",No,36.7,5175,Non-monogamous,Anus,Positive,Penicillin
+46,HPV,"Unusual discharge, Genital sores",No,36.2,5699,Monogamous,Vagina,Negative,Azithromycin
+29,Syphilis,"Genital sores, Painful urination",No,36.2,4295,Non-monogamous,Mouth,Negative,Azithromycin
+39,Syphilis,"Unusual discharge, Genital sores",Yes,37.5,8652,Non-monogamous,Throat,Negative,Penicillin
+37,Chlamydia,Warts,No,37.2,8260,Monogamous,Anus,Positive,Azithromycin
+34,Herpes,"Warts, Flu-like symptoms",No,36.9,9191,Monogamous,Anus,Inconclusive,Azithromycin
+34,HPV,"Flu-like symptoms, Painful urination, Warts, Genital sores",No,36.9,7475,Monogamous,Vagina,Inconclusive,Ceftriaxone
+48,Gonorrhea,"Warts, Flu-like symptoms",Yes,37.7,7006,Monogamous,Mouth,Positive,Doxycycline
+39,Syphilis,Unusual discharge,Yes,37.7,8940,Monogamous,Vagina,Positive,Doxycycline
+45,Chlamydia,"Painful urination, Flu-like symptoms, Warts, Genital sores, Unusual discharge",Yes,37.4,4476,Non-monogamous,Vagina,Positive,Penicillin
+48,Chlamydia,"Unusual discharge, Painful urination, Genital sores",No,36.1,10854,Non-monogamous,Mouth,Negative,Azithromycin
+34,Herpes,Genital sores,No,36.8,6702,Non-monogamous,Penis,Inconclusive,Azithromycin
+32,Syphilis,"Warts, Unusual discharge, Genital sores, Painful urination, Flu-like symptoms",No,37.1,8291,Monogamous,Mouth,Negative,Penicillin
+30,HPV,"Painful urination, Warts, Unusual discharge, Flu-like symptoms, Genital sores",Yes,36.7,8293,Non-monogamous,Throat,Inconclusive,Doxycycline
+29,HPV,"Warts, Flu-like symptoms, Unusual discharge, Genital sores, Painful urination",No,37.7,8955,Monogamous,Penis,Negative,Penicillin
+28,HPV,"Warts, Flu-like symptoms, Painful urination, Genital sores",Yes,37.0,8016,Monogamous,Anus,Negative,Azithromycin
+37,HIV,"Flu-like symptoms, Unusual discharge, Genital sores, Painful urination",No,36.8,9435,Non-monogamous,Penis,Negative,Penicillin
+30,Chlamydia,Flu-like symptoms,Yes,37.9,5974,Non-monogamous,Mouth,Negative,Penicillin
+34,Herpes,"Flu-like symptoms, Painful urination",No,37.9,8835,Monogamous,Vagina,Inconclusive,Azithromycin
+32,Gonorrhea,Flu-like symptoms,Yes,38.0,5606,Non-monogamous,Throat,Negative,Azithromycin
+40,Chlamydia,"Genital sores, Unusual discharge, Painful urination, Flu-like symptoms, Warts",No,38.0,4053,Non-monogamous,Penis,Inconclusive,Azithromycin
+40,HIV,"Unusual discharge, Genital sores, Warts",Yes,37.1,7217,Monogamous,Throat,Inconclusive,Doxycycline
+38,Syphilis,"Flu-like symptoms, Unusual discharge, Warts",Yes,36.7,5307,Non-monogamous,Anus,Positive,Penicillin
+49,Gonorrhea,Flu-like symptoms,No,36.1,8196,Non-monogamous,Penis,Positive,Penicillin
+48,Gonorrhea,"Unusual discharge, Painful urination, Warts",No,36.7,4743,Monogamous,Anus,Positive,Ceftriaxone
+40,Herpes,"Warts, Unusual discharge, Flu-like symptoms, Genital sores",No,36.5,5810,Monogamous,Penis,Negative,Azithromycin
+41,Chlamydia,"Genital sores, Flu-like symptoms, Warts, Unusual discharge, Painful urination",No,36.2,10461,Non-monogamous,Mouth,Positive,Doxycycline
+43,HPV,"Painful urination, Flu-like symptoms",Yes,37.4,9901,Non-monogamous,Mouth,Positive,Doxycycline
+32,Chlamydia,Unusual discharge,No,36.9,4605,Non-monogamous,Throat,Positive,Doxycycline
+40,HPV,"Unusual discharge, Warts, Painful urination",No,36.8,9006,Non-monogamous,Throat,Inconclusive,Azithromycin
+44,Herpes,Painful urination,No,37.4,10293,Non-monogamous,Throat,Inconclusive,Azithromycin
+49,HIV,"Genital sores, Flu-like symptoms, Unusual discharge, Warts, Painful urination",Yes,37.9,8768,Non-monogamous,Penis,Inconclusive,Penicillin
+26,Herpes,"Unusual discharge, Flu-like symptoms",Yes,37.2,7256,Non-monogamous,Penis,Positive,Ceftriaxone
+23,HIV,"Unusual discharge, Flu-like symptoms",Yes,37.4,7871,Monogamous,Mouth,Inconclusive,Ceftriaxone
+19,Syphilis,"Warts, Genital sores, Flu-like symptoms, Painful urination",Yes,37.8,6965,Non-monogamous,Throat,Negative,Azithromycin
+29,Gonorrhea,"Painful urination, Flu-like symptoms, Genital sores, Warts",Yes,37.3,4150,Non-monogamous,Anus,Positive,Doxycycline
+28,Herpes,"Unusual discharge, Flu-like symptoms",No,36.7,8202,Non-monogamous,Mouth,Positive,Doxycycline
+40,Chlamydia,"Painful urination, Unusual discharge, Flu-like symptoms, Genital sores, Warts",Yes,37.4,7914,Non-monogamous,Throat,Positive,Ceftriaxone
+32,HIV,"Flu-like symptoms, Unusual discharge",Yes,36.5,10644,Monogamous,Throat,Inconclusive,Ceftriaxone
+46,Chlamydia,Unusual discharge,No,37.7,10525,Non-monogamous,Anus,Positive,Penicillin
+34,Herpes,"Unusual discharge, Warts, Genital sores, Painful urination",Yes,37.1,8700,Non-monogamous,Mouth,Inconclusive,Doxycycline
+49,HIV,"Genital sores, Flu-like symptoms, Warts",No,36.5,7174,Non-monogamous,Penis,Positive,Azithromycin
+49,HPV,"Warts, Unusual discharge, Flu-like symptoms",No,37.1,7700,Monogamous,Mouth,Negative,Penicillin
+48,Gonorrhea,"Painful urination, Genital sores",No,37.8,9291,Non-monogamous,Penis,Inconclusive,Ceftriaxone
+32,HPV,"Flu-like symptoms, Unusual discharge, Warts, Genital sores",No,36.8,8415,Monogamous,Vagina,Negative,Ceftriaxone
+42,HIV,"Painful urination, Genital sores, Warts, Unusual discharge",No,37.9,4156,Monogamous,Throat,Positive,Ceftriaxone
+29,Chlamydia,"Genital sores, Painful urination, Unusual discharge",Yes,36.1,6181,Non-monogamous,Mouth,Positive,Penicillin
+24,Syphilis,"Unusual discharge, Genital sores, Flu-like symptoms, Painful urination",Yes,37.5,4752,Monogamous,Throat,Positive,Penicillin
+24,Syphilis,"Warts, Unusual discharge",Yes,36.1,10171,Non-monogamous,Penis,Negative,Doxycycline
+44,Syphilis,Unusual discharge,No,37.6,7624,Non-monogamous,Throat,Positive,Ceftriaxone
+38,Chlamydia,"Unusual discharge, Warts, Painful urination, Genital sores",No,36.9,8732,Non-monogamous,Throat,Inconclusive,Doxycycline
+27,Herpes,"Unusual discharge, Warts, Flu-like symptoms",Yes,36.2,7582,Non-monogamous,Vagina,Positive,Doxycycline
+45,Syphilis,"Unusual discharge, Painful urination, Genital sores, Flu-like symptoms, Warts",No,37.2,6161,Monogamous,Mouth,Inconclusive,Ceftriaxone
+50,HIV,"Painful urination, Genital sores, Unusual discharge, Flu-like symptoms, Warts",No,36.9,4316,Monogamous,Anus,Positive,Doxycycline
+34,Gonorrhea,"Warts, Flu-like symptoms, Painful urination, Genital sores, Unusual discharge",No,36.8,6980,Non-monogamous,Mouth,Negative,Penicillin
+28,Gonorrhea,"Warts, Painful urination, Flu-like symptoms",Yes,37.7,5797,Monogamous,Vagina,Inconclusive,Ceftriaxone
+32,Chlamydia,"Painful urination, Warts, Genital sores",No,37.2,4835,Non-monogamous,Vagina,Positive,Ceftriaxone
+20,Gonorrhea,"Genital sores, Painful urination, Flu-like symptoms",No,37.7,9246,Non-monogamous,Vagina,Inconclusive,Azithromycin
+42,Gonorrhea,Warts,No,36.8,4502,Non-monogamous,Throat,Positive,Doxycycline
+46,Herpes,"Flu-like symptoms, Unusual discharge",No,37.3,4290,Non-monogamous,Vagina,Negative,Doxycycline
+35,Syphilis,"Unusual discharge, Painful urination, Genital sores, Warts",Yes,36.4,4269,Non-monogamous,Mouth,Inconclusive,Azithromycin
+25,HIV,"Flu-like symptoms, Unusual discharge, Warts, Painful urination",Yes,36.2,7171,Non-monogamous,Penis,Positive,Azithromycin
+42,Chlamydia,Warts,No,37.6,6516,Non-monogamous,Penis,Negative,Penicillin
+19,Chlamydia,"Flu-like symptoms, Warts",Yes,36.6,7859,Non-monogamous,Anus,Inconclusive,Azithromycin
+27,Syphilis,Unusual discharge,Yes,36.3,9383,Monogamous,Vagina,Positive,Azithromycin
+44,Chlamydia,"Flu-like symptoms, Warts, Genital sores, Unusual discharge",Yes,36.2,4478,Monogamous,Penis,Negative,Doxycycline
+28,Gonorrhea,"Genital sores, Unusual discharge, Warts, Flu-like symptoms",Yes,37.6,9966,Monogamous,Mouth,Inconclusive,Ceftriaxone
+50,Gonorrhea,"Painful urination, Warts, Unusual discharge, Flu-like symptoms, Genital sores",No,36.5,6286,Non-monogamous,Vagina,Negative,Azithromycin
+46,Chlamydia,"Flu-like symptoms, Unusual discharge, Painful urination, Warts, Genital sores",Yes,36.3,7943,Non-monogamous,Penis,Negative,Penicillin
+43,Syphilis,"Warts, Unusual discharge, Painful urination",No,36.0,7988,Non-monogamous,Throat,Negative,Doxycycline
+42,Gonorrhea,"Genital sores, Painful urination, Warts, Flu-like symptoms",No,37.1,6351,Non-monogamous,Mouth,Negative,Azithromycin
+32,Chlamydia,"Warts, Painful urination, Flu-like symptoms",Yes,37.8,5291,Non-monogamous,Mouth,Negative,Penicillin
+19,HIV,Painful urination,No,36.5,4430,Monogamous,Mouth,Inconclusive,Ceftriaxone
+43,Syphilis,"Warts, Painful urination, Unusual discharge, Flu-like symptoms, Genital sores",No,37.1,5395,Monogamous,Penis,Negative,Ceftriaxone
