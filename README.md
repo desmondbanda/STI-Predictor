@@ -12,6 +12,9 @@
 - **Scikit-learn**
 - **Pandas**
 
+## Important Note
+The model used in this project was trained on synthetic data generated using the `Faker` module. This data is not real and is used solely for demonstration purposes.
+
 ---
 
 This project aims to empower individuals with data-driven insights into STI risks, promoting informed decision-making and preventive measures.
